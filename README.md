@@ -1,6 +1,6 @@
 # Netflix Data Cleaning with Python Pandas
 
-This project implements, in code, the full workflow demonstrated in the video **“Step-by-Step Netflix Data Cleaning with Python Pandas”** by *Data Science with Onur*.
+This project implements, in code, the full workflow demonstrated in the video **“Step-by-Step Netflix Data Cleaning with Python Pandas”**
 
 The objective is to take the public **Netflix titles dataset** from Kaggle and transform it from a raw CSV file into a **clean, analysis-ready DataFrame** using **Python** and **Pandas**.
 
@@ -51,10 +51,8 @@ Performed in a Jupyter Notebook using Pandas:
 
 ### Source
 - **Kaggle**: Netflix titles dataset  
-- Dataset by *Ariyo* (as referenced in the video)
 - Typical file name: `netflix_titles.csv`
 
-> Update the Kaggle link in this README with the exact dataset URL used in your project.
 
 ### Typical Schema
 
